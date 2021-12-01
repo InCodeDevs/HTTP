@@ -1,0 +1,30 @@
+{
+  "name": "@incodelang/http",
+  "version": "1.0.0",
+  "description": "A HTTP backend API for compiling and previewing InCode.",
+  "main": "src/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InCodeDevs/HTTP.git"
+  },
+  "keywords": [
+    "HTTP",
+    "express.js",
+    "incode",
+    "language",
+    "preview",
+    "compile"
+  ],
+  "author": "Ben Siebert",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/InCodeDevs/HTTP/issues"
+  },
+  "homepage": "https://github.com/InCodeDevs/HTTP#readme"
+}
