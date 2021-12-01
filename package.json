@@ -26,5 +26,11 @@
   "bugs": {
     "url": "https://github.com/InCodeDevs/HTTP/issues"
   },
-  "homepage": "https://github.com/InCodeDevs/HTTP#readme"
+  "homepage": "https://github.com/InCodeDevs/HTTP#readme",
+  "dependencies": {
+    "@incodelang/compiler": "^1.1.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
 }
